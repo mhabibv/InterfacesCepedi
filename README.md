@@ -76,4 +76,6 @@ Este projeto implementa um sistema utilizando um display OLED SSD1306, botões e
 - **Exibição de caracteres**: Exibe números na matriz de LEDs e caracteres no display OLED.
 - **Debounce de botões**: Evita múltiplas leituras para um único pressionamento de botão.
 
+## Link do vídeo que mostra a execução
+- https://www.youtube.com/watch?v=B2YUkdsH8EI
 
