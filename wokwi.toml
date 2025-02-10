@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/InterfacesCepedi.uf2'
+elf = 'build/InterfacesCepedi.elf'
